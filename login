@@ -1,1 +1,1 @@
-code = 'admin_zdf2'
+admin_zdf2
